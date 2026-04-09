@@ -25,3 +25,12 @@ The research follows a modular, data-driven methodology structured into three co
 
 **Supervisor:** Assoc. Prof. Dr. Aysun Güran
 **Project Date:** May 2025
+
+## ⚠️ Implementation & Model Notice
+This repository contains the source code and framework logic for the GAN-LLM hybrid testing system. For detailed academic background and findings, please refer to our published paper:
+
+🔗 **Publication Link:** [UBMK 2025 - Modular GAN-LLM Framework](https://ieeexplore.ieee.org/document/11206764)
+
+### Model Availability
+* **CTGAN Models:** Please note that the pre-trained **CTGAN models and weights are not included** in this repository due to their large file sizes.
+
