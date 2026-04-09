@@ -1,3 +1,0 @@
-{
-  "prompt": "Generate 50 human records in valid CSV format with the following columns: First Name,Last Name,Phone,Email,Country,Password. Only return the CSV content. Do not include any explanation or file names and do not use python code. Example:\nFirst Name,Last Name,Phone,Email,Country,Password\nJohn,Michaelson,5352693876,johnmichael@gmail.com,England,abcnffk32\n"
-}
