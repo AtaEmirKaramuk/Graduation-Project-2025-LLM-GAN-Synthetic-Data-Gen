@@ -1,0 +1,13 @@
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.formMain.resources
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.formTestUser.resources
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.formTestCase.resources
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\guven\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.LoaderForm.resources
